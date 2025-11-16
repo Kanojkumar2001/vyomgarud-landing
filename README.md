@@ -51,7 +51,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
